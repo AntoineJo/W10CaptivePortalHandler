@@ -1,0 +1,45 @@
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\obj\x86\Debug\Captive Wifi manager.csprojAssemblyReference.cache
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\obj\x86\Debug\App.g.i.cs
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\obj\x86\Debug\App.g.cs
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\obj\x86\Debug\MainPage.g.cs
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\obj\x86\Debug\App.xaml
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\obj\x86\Debug\MainPage.xaml
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\obj\x86\Debug\App.xbf
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\obj\x86\Debug\MainPage.xbf
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\bin\x86\Debug\App.xbf
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\bin\x86\Debug\MainPage.xbf
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\bin\x86\Debug\Captive Wifi manager.xr.xml
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\bin\x86\Debug\Captive Wifi manager.exe
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\bin\x86\Debug\Captive Wifi manager.pdb
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\bin\x86\Debug\resources.pri
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\bin\x86\Debug\AppxManifest.xml
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\bin\x86\Debug\Core\Captive Wifi manager.exe
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\bin\x86\Debug\Captive Wifi manager.build.appxrecipe
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\bin\x86\Debug\System.Runtime.dll
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\obj\x86\Debug\Captive Wifi manager.csproj.CoreCompileInputs.cache
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\obj\x86\Debug\Captive Wifi manager.csproj.CopyComplete
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\obj\x86\Debug\Captive Wifi manager.exe
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\obj\x86\Debug\Captive Wifi manager.pdb
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\obj\x86\Debug\priconfig.xml
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\obj\x86\Debug\resources.resfiles
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\obj\x86\Debug\pri.resfiles
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\obj\x86\Debug\qualifiers.txt
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885238160000000.json
