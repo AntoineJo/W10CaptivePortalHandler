@@ -9,9 +9,9 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid x:Name="grid">
-        <WebView x:Name="webview" Margin="0,164,0,0"/>
-        <TextBlock x:Name="blockText" HorizontalAlignment="Left" Text="You have internet connectivity, so I'm useless" TextWrapping="Wrap" VerticalAlignment="Top" Height="193" Width="885" FontSize="48" Margin="10,164,0,0"/>
-        <!--<Button Content="Refresh test" Margin="151,128,0,0" VerticalAlignment="Top" Click="Button_Click"/>-->
+        <WebView x:Name="webview" Margin="0,164,0,0" NewWindowRequested="OnNewWindowRequested"/>
+        <TextBlock x:Name="blockText" HorizontalAlignment="Left" Text="You have internet connectivity and you can now connect to your VPN, please close the application" TextWrapping="Wrap" VerticalAlignment="Top" Height="193" Width="885" FontSize="48" Margin="10,164,0,0"/>
+        <Button Content="Refresh test" Margin="151,128,0,0" VerticalAlignment="Top" Click="Button_Click"/>
         <TextBlock x:Name="connectivityMaker" HorizontalAlignment="Left" Text="You are connected to:?" TextWrapping="Wrap" VerticalAlignment="Top" Height="89" Width="1026" FontSize="30" Margin="10,10,0,0"/>
 
     </Grid>

@@ -9,7 +9,7 @@
   <Identity
     Name="229d2b9a-03e4-45fd-a54b-0c634f6a45ce"
     Publisher="CN=ajourn"
-    Version="1.0.0.0" />
+    Version="1.0.2.0" />
 
   <mp:PhoneIdentity PhoneProductId="229d2b9a-03e4-45fd-a54b-0c634f6a45ce" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
