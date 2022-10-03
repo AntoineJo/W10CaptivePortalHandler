@@ -1,1 +1,0 @@
-C:\Users\ajourn\source\repos\Captive Wifi manager\Captive Wifi manager\Captive Wifi manager.csproj;x86
